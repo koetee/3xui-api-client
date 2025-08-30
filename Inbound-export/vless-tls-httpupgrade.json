@@ -1,0 +1,41 @@
+{
+  "id": 5,
+  "userId": 0,
+  "up": 3534690,
+  "down": 13235093,
+  "total": 0,
+  "remark": "HTTPUpgrade",
+  "enable": true,
+  "expiryTime": 0,
+  "listen": "",
+  "port": 23157,
+  "protocol": "vless",
+  "settings": "{\n  \"clients\": [\n    {\n      \"id\": \"4c927165-eb78-4ca3-b223-fad9df481b30\",\n      \"flow\": \"\",\n      \"email\": \"9puyzetq\",\n      \"limitIp\": 0,\n      \"totalGB\": 0,\n      \"expiryTime\": 0,\n      \"enable\": true,\n      \"tgId\": \"\",\n      \"subId\": \"koete\",\n      \"comment\": \"\",\n      \"reset\": 0\n    },\n    {\n      \"id\": \"a72f6b69-0043-4794-affc-d1b28dd2243b\",\n      \"flow\": \"\",\n      \"email\": \"b8128o52\",\n      \"limitIp\": 0,\n      \"totalGB\": 0,\n      \"expiryTime\": 0,\n      \"enable\": true,\n      \"tgId\": \"\",\n      \"subId\": \"root\",\n      \"comment\": \"\",\n      \"reset\": 0\n    }\n  ],\n  \"decryption\": \"none\",\n  \"fallbacks\": []\n}",
+  "streamSettings": "{\n  \"network\": \"httpupgrade\",\n  \"security\": \"tls\",\n  \"externalProxy\": [],\n  \"tlsSettings\": {\n    \"serverName\": \"sw1.luvl.dev\",\n    \"minVersion\": \"1.2\",\n    \"maxVersion\": \"1.3\",\n    \"cipherSuites\": \"\",\n    \"rejectUnknownSni\": false,\n    \"verifyPeerCertInNames\": [\n      \"dns.google\",\n      \"cloudflare-dns.com\"\n    ],\n    \"disableSystemRoot\": false,\n    \"enableSessionResumption\": false,\n    \"certificates\": [\n      {\n        \"certificateFile\": \"/root/cert/sw1.luvl.dev/fullchain.pem\",\n        \"keyFile\": \"/root/cert/sw1.luvl.dev/privkey.pem\",\n        \"oneTimeLoading\": false,\n        \"usage\": \"encipherment\",\n        \"buildChain\": false\n      }\n    ],\n    \"alpn\": [\n      \"h2\",\n      \"http/1.1\"\n    ],\n    \"echServerKeys\": \"ACBz2NT1B7TYp49BItBOCVUKyEiL9i7Gv9f8LREqhXhsKwBf/g0AWwAAIAAgmzrpx6ng8xzir+WUJl6lUcU7B3jxOPdanjblW+SE5wgAJAABAAEAAQACAAEAAwACAAEAAgACAAIAAwADAAEAAwACAAMAAwAMc3cxLmx1dmwuZGV2AAA=\",\n    \"echForceQuery\": \"none\",\n    \"settings\": {\n      \"allowInsecure\": false,\n      \"fingerprint\": \"chrome\",\n      \"echConfigList\": \"AF/+DQBbAAAgACCbOunHqeDzHOKv5ZQmXqVRxTsHePE491qeNuVb5ITnCAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxzdzEubHV2bC5kZXYAAA==\"\n    }\n  },\n  \"httpupgradeSettings\": {\n    \"acceptProxyProtocol\": false,\n    \"path\": \"/\",\n    \"host\": \"\",\n    \"headers\": {}\n  }\n}",
+  "tag": "inbound-23157",
+  "sniffing": "{\n  \"enabled\": true,\n  \"destOverride\": [\n    \"http\",\n    \"tls\",\n    \"quic\"\n  ],\n  \"metadataOnly\": false,\n  \"routeOnly\": false\n}",
+  "clientStats": [
+    {
+      "id": 5,
+      "inboundId": 5,
+      "enable": true,
+      "email": "9puyzetq",
+      "up": 20899,
+      "down": 32985,
+      "expiryTime": 0,
+      "total": 0,
+      "reset": 0
+    },
+    {
+      "id": 8,
+      "inboundId": 5,
+      "enable": true,
+      "email": "b8128o52",
+      "up": 3805233,
+      "down": 16379649,
+      "expiryTime": 0,
+      "total": 0,
+      "reset": 0
+    }
+  ]
+}

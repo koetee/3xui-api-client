@@ -1,0 +1,41 @@
+{
+  "id": 4,
+  "userId": 0,
+  "up": 7491722,
+  "down": 61171908,
+  "total": 0,
+  "remark": "gRPC",
+  "enable": true,
+  "expiryTime": 0,
+  "listen": "",
+  "port": 43324,
+  "protocol": "vless",
+  "settings": "{\n  \"clients\": [\n    {\n      \"id\": \"83382480-3cb8-4e05-8ce6-bba33e7ad4b9\",\n      \"flow\": \"\",\n      \"email\": \"zw3nwcmo\",\n      \"limitIp\": 0,\n      \"totalGB\": 0,\n      \"expiryTime\": 0,\n      \"enable\": true,\n      \"tgId\": \"\",\n      \"subId\": \"koete\",\n      \"comment\": \"\",\n      \"reset\": 0\n    },\n    {\n      \"id\": \"0905fc42-4307-4fc7-b272-b5e3390706f6\",\n      \"flow\": \"\",\n      \"email\": \"8s884159\",\n      \"limitIp\": 0,\n      \"totalGB\": 0,\n      \"expiryTime\": 0,\n      \"enable\": true,\n      \"tgId\": \"\",\n      \"subId\": \"root\",\n      \"comment\": \"\",\n      \"reset\": 0\n    }\n  ],\n  \"decryption\": \"none\",\n  \"fallbacks\": []\n}",
+  "streamSettings": "{\n  \"network\": \"grpc\",\n  \"security\": \"reality\",\n  \"externalProxy\": [],\n  \"realitySettings\": {\n    \"show\": false,\n    \"xver\": 0,\n    \"dest\": \"google.com:443\",\n    \"serverNames\": [\n      \"google.com\",\n      \"www.google.com\"\n    ],\n    \"privateKey\": \"EJePpusQQGhhZgXpAjWLjo9dYFX-fk4fO_nwVyg68GY\",\n    \"minClientVer\": \"\",\n    \"maxClientVer\": \"\",\n    \"maxTimediff\": 0,\n    \"shortIds\": [\n      \"6a67d7\",\n      \"0b004293\",\n      \"84d3b41f31a9\",\n      \"dbf8068c16d4d6\",\n      \"4927\",\n      \"ac33aff60be23bb0\",\n      \"82\",\n      \"c3d08a62a0\"\n    ],\n    \"mldsa65Seed\": \"I5UGvVSPXZ3QRMM7xnCgczmwZZO-N5RSdjnuA8SDduA\",\n    \"settings\": {\n      \"publicKey\": \"RuMXY6YshNnPxAehCejpoJICep-WPkKXtcvz0p6Fx1E\",\n      \"fingerprint\": \"chrome\",\n      \"serverName\": \"\",\n      \"spiderX\": \"/\",\n      \"mldsa65Verify\": \"EA96vlLCYHhSVaOxScCiTGlfbtLQDP0vF43Y3wuZ5VWyKJJ9-trqtQsK57kUB_d1cdgrV65P9vgbh9sHIcGMvsbqVdRHMhR6XH-iy5QRHbRmCAaorIav3YpcI4wUTBMh-RQ3dThXtKmjyVWvKYpWUXez1zdEmUtaM-FRnY7xF0awIt6Y-wcqP-znMR8ntSMWcqsT-ISecnobOzOIKk7TDnYniJaCsQowd5g4Qh7_aLWNPyYBCqz6yCf8ZBlw2eydEiCVbm2U5AvRVK3eEbsag1nme3su5caSi7gAk74HwY2Hq4CQpMpLu2K9g4gUQrT1XVBXJtMnEvWl2mdhCzXLBDlXiNwyw_nK190ai6XVDG4ICEGsMI_w9QRbW6qzNLlcglDUeMVbYaIlLFkGgueEXrsyRGmfG7NpHmFcWizxHV7RNgWr82thQSbPROdaRyvSFOQp7S7Kbq5fZfrKw068T2ujTxKFIWwNu4EGmM4m_5lyhnIKKaE_qSOdmldoaveAZjOTBLtSFLC9jZg9dad4-3p71KfOb9iyT_-QFktJCBr0m0DHMVLGLTNcKvVjEQvArpEgjxmGhHmNTluVvwZGDOfEhf7l5kJ5ZVrhRRfWSh2W8WccozvrBHV_6a6ZpO7bUr4ZtLgNFARYBWEP-bQhv7Q9VerDJF-AocEl09LK1mlSxTgHJdW4pd3UPiISic6FjQr9au9ukcFsnOX5G2v-rKBPf87oFtgFKs953nuAGbguYPB4FcTCmktooJ2XKloNTJBKDzVf0l4Ut5frqHRDW68dJBm7YMOUprdZ8QvitRIU-QGyAzg6FTSfsdkUArOxe5777qw-4fU7f680Us77Zgl4arW7KUlmFbIMyDKZ4yT3UVH6uWBnWqFcRB-MiXI8MjzEpqYt76hGeSrUKFviFcrGv1KvaiS0dXKeZ5wukqw4dstgHGSb5Smeu4-X0FU1b_K_etPfLF9ITqlnz71xJOtvTwDZV6FDHooKGoUcxyuDj46g7PClPD9eG6J7vrN8p9C7drqod4YOvthxpSscaArimqNe3WjGiiQxWugYnVUVtc4nVdfrbN1b57ICK5mQ_W-jLa4F8z3syXflIoqOyhEwKuRbZ3ZPE_0vNNX5XpF6nq2I1hnEfmzaqyt5f5oc5ZHC948DSwUcmkO1PErJZvsFTsL7Pg2hU7DwiCq1FQJC71N95lb90_DavG27d4hTLoX5ktvMwTjptAp_IYqPgT_lCuR1q2Llmd5OgL_PsSG2jW1s2vmaPEU6dVKl8waahLeTDO2KXRoc9xXS1VqrgDnd19mT6YdlWmaRltqEnA5QATw6BvpJA7vwnhDoIknXxm0lOWB550EX0b8QEtKq_hoU92M-wYEq9WyWqytwtCYonxxzoYjudJWuZVEn4ZwFkc8On--5MI__Ys0ljoDUdtZmX0n0Jqr9KBHJHqBx-L3i7XA8UKMWqVXtdW5EuATrcbKu9iZSxGuV47F7NiypuS2OYMTQGs-c7bBNo7cry0H6PxgbFj0COB0HHgKwmVMzrDVrvy3EIfjej4dVjPOxYq4aUvGa_ERHstkGOoXaWFPgg9HasbgXS1w53vjYmOJsBDGWXCP6VunGNDAMrlC6BkBiZ62pB6vYDtjQwZWXZ0P1YgefXP8ZQnopEN2lPvxs9eQJpV1XBnzTc4z9wG9gSrPxqy1p1JKnmXf4NaoKM-1AsWTSS06jyjc_WZi5yjoLagICysqmJ5ntf_mi3_l9uZM49UDfVoyg4FOynPgKFIoS9NrbmC5UoG44mNdvN7p4R52sqYenGvxTQtnl6AtG795KIdp6yQqarwKlU_tHMm5pMbF35Jc0pUbgmNtHpeqjNblUOUPjxzsNJP4lUZOyhMekRrScFAC0UpJw__gsUKefJrO9N_3MygyVAuENfnDGECYqrorc0kc4sTQ8_-qT_Hw7JhBxVC7t1nITzdoQXqx2jhdaJirvy4foh_-7keNiDjln7aCWrRRMrxxeWYs4PXHw3AwCPejCD4YyLsrS4sJTSTPIO7FVJmqmbDVpzs2cCj5DcPMRI8010v77Va-_6J_jlbP2oQdYCQwTrmxe2lGUuq59tR_YXml82tKDRP6KSwuas0TJMHW0DBuRdtlgCWTtneqgg_8fmlS2NiTNd1u6_B1NdvT22c6BAUp9K39JEns3V0yy-sfvT94vW1mk2fD1bmqobp0zDdy727JQfssSvK5e_gD1ZnsJGWHDGr8UvfFepmJ6-wN9l7Kmgg0yUekEAKRoi3rAjRJb9oV-JK_7t8k09vMr9x28FpW_OfsuiKiyxxgSEdPo2BIWaK-xlv1S0O-DsETesMfKN-1Lq-7WdNp1E4QTf4GDIVYUCSq6Kn596WF7axnzzdnBiqGWABWtEF7XibQNTRMx7GBaBPEqUNrUxisELTv1ioLx_RBEnXloiqZuc8AqcF1Kx0kPEUflh-gOLBexaGpE-_5yx7OaUfNhnNIO9i50AAniYkQWIZxnENnAwkS0RwYR-pswVnrU6vKUpl32GNZ1Y9qmt8df1sNcN1J5VwH5AOH0bM7oBXIHXo2zQCduFVkSOljLMpQwZmJWyvTzRVOB3uNeZH4\"\n    }\n  },\n  \"grpcSettings\": {\n    \"serviceName\": \"vless-grpc\",\n    \"authority\": \"\",\n    \"multiMode\": true\n  },\n  \"sockopt\": {\n    \"acceptProxyProtocol\": false,\n    \"tcpFastOpen\": false,\n    \"mark\": 0,\n    \"tproxy\": \"off\",\n    \"tcpMptcp\": false,\n    \"penetrate\": false,\n    \"domainStrategy\": \"UseIP\",\n    \"tcpMaxSeg\": 1440,\n    \"dialerProxy\": \"\",\n    \"tcpKeepAliveInterval\": 0,\n    \"tcpKeepAliveIdle\": 300,\n    \"tcpUserTimeout\": 10000,\n    \"tcpcongestion\": \"bbr\",\n    \"V6Only\": false,\n    \"tcpWindowClamp\": 600,\n    \"interface\": \"\"\n  }\n}",
+  "tag": "inbound-43324",
+  "sniffing": "{\n  \"enabled\": true,\n  \"destOverride\": [\n    \"http\",\n    \"tls\"\n  ],\n  \"metadataOnly\": false,\n  \"routeOnly\": false\n}",
+  "clientStats": [
+    {
+      "id": 4,
+      "inboundId": 4,
+      "enable": true,
+      "email": "zw3nwcmo",
+      "up": 453258,
+      "down": 1071010,
+      "expiryTime": 0,
+      "total": 0,
+      "reset": 0
+    },
+    {
+      "id": 7,
+      "inboundId": 4,
+      "enable": true,
+      "email": "8s884159",
+      "up": 6915243,
+      "down": 59902859,
+      "expiryTime": 0,
+      "total": 0,
+      "reset": 0
+    }
+  ]
+}
