@@ -422,23 +422,9 @@ cd 3xui-api-client
 # Установить зависимости
 bun install
 
-# Запустить примеры
-bun run examples/basic-usage.ts
-bun run examples/subscription-examples.ts
-
 # Сборка
 bun run build
 ```
-
-## 📄 Лицензия
-
-MIT
-
-## 🤝 Поддержка
-
-- 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/3xui-api-client/issues)
-- 📚 Wiki: [GitHub Wiki](https://github.com/yourusername/3xui-api-client/wiki)
 
 ## 🔗 Связанные проекты
 
