@@ -1,5 +1,5 @@
 {
-  "name": "xtls-experiment",
+  "name": "3xui-api-client",
   "module": "index.ts",
   "type": "module",
   "private": true,
@@ -8,11 +8,5 @@
   },
   "peerDependencies": {
     "typescript": "^5"
-  },
-  "dependencies": {
-    "@types/qs": "^6.9.18",
-    "axios": "^1.8.4",
-    "axios-retry": "^4.5.0",
-    "qs": "^6.14.0"
   }
 }
